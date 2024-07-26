@@ -1,6 +1,6 @@
 # Gif Expert App
 
-Buscador de GIFs con React, Vite y GIPHY
+GIF Finder with React, Vite and GIPHY
 
 ## Installations and Configurations
 
